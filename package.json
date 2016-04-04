@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/ebsco/github-scratch.git"
   },
+  "publishConfig": {
+    "registry": "http://artifactory.epnet.com:8081/artifactory/api/npm/eae-npm-build",
+    "tag": "develop"
+  },
   "author": "Ryan B Leach",
   "license": "ISC",
   "bugs": {
