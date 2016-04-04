@@ -1,0 +1,24 @@
+{
+  "name": "github-scratch",
+  "version": "1.0.0",
+  "description": "scratch repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebsco/github-scratch.git"
+  },
+  "author": "Ryan B Leach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebsco/github-scratch/issues"
+  },
+  "homepage": "https://github.com/ebsco/github-scratch#readme",
+  "devDependencies": {
+    "buzz-unit-testing": "^0.4.6",
+    "grunt-mocha-test": "^0.12.7",
+    "superagent-mock": "^1.10.0"
+  }
+}
